@@ -183,5 +183,6 @@ The Streamlit dashboard includes:
 
 ## 📬 Contact
 
-**Analytics Team** | Delhivery Pvt. Ltd.  
+Asmit Choudhary
+casmit510@gmail.com
 Project: Last-Mile Optimization | FY 2024–25
